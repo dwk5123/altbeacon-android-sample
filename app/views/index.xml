@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="appWindow" class="container">
+		<Button id="label" onClick="startRanging">Start Scanning</Button>
+	</Window>
+</Alloy>
